@@ -16,7 +16,7 @@ cout<<x*y<<endl;
 }
 carea(int x)
 {
-cout<<x*x<<end;
+cout<<x*x<<endl;
 }
 carea(int r)
 {
